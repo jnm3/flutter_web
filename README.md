@@ -2,6 +2,9 @@
 
   The Matrix
 
-    geekserver - Flutter Website to Test Flutter Apps
+    Geekserver - A Flutter Website
+      purpose: for testing the flutter web framework
     
-    Others to follow
+    Linktree - version 1.x of Flutter
+      purpose: used to link to development resources
+
